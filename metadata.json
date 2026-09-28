@@ -1,0 +1,6 @@
+{
+  "name": "LeadPilot AI - Subscription Management System",
+  "description": "Full-stack subscription management platform with customer lifecycles, plans, renewals, upgrades, cancellations, and billing pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
